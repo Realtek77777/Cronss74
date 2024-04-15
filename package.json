@@ -1,0 +1,20 @@
+{
+  "name": "Cronss74",
+  "version": "1.0.0", 
+  "description": "Develop a robust form validation library that can be easily integrated into web applications, offering customizable validation rules for different types of inputs",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Realtek77777/Cronss74.git"
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "B",
+  "license": "MIT"
+}
